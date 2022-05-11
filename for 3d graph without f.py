@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 import scipy.interpolate as int
 
 
-experiment = '2d'           # set to '1d' or '2d'
-plot_interval = 20          # plot every n steps
+experiment = '2d'           
+plot_interval = 20          
 
 
 nx = 128
